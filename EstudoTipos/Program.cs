@@ -1,0 +1,3 @@
+﻿using EstudoTipos;
+
+TipoData.EstudarDatas();
