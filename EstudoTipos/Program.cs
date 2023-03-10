@@ -1,3 +1,5 @@
 ﻿using EstudoTipos;
 
-TipoData.EstudarDatas();
+// TipoData.EstudarDatas();
+// TiposGerais.TipoParaMoedas();
+TiposGerais.EstudarArray();
