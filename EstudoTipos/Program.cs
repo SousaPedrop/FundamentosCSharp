@@ -2,4 +2,5 @@
 
 // TipoData.EstudarDatas();
 // TiposGerais.TipoParaMoedas();
-TiposGerais.EstudarArray();
+// TiposGerais.EstudarArray();
+Excecoes.TratarExcecoes();
